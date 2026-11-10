@@ -1,0 +1,10 @@
+# Data files (WDICSV.csv is ~199 MB; download from the World Bank WDI site)
+*.csv
+
+# Virtual environment
+.venv/
+venv/
+
+# Python / Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/

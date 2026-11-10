@@ -1,0 +1,12 @@
+# Requirements for WDI_renewables_analysis.ipynb
+# Tested with Python 3.13, pandas 3.0.5, numpy 2.5.3, matplotlib 3.11.2
+# Install:  pip install -r requirements.txt
+
+# Analysis and plotting
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+
+# Running the notebook (skip if you already use VS Code / an existing Jupyter install)
+jupyterlab>=4.0
+ipykernel>=6.0
